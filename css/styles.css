@@ -200,6 +200,7 @@ svg.icon-mail {
   max-width: 1600px;
   background-color: var(--footer-bg-color);
   background-repeat:no-repeat;
+  background-size:cover;
   }
 
 .hero-title {
