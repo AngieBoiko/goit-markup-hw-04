@@ -198,7 +198,9 @@ svg.icon-mail {
     ),
     url("../images/hero-bg-img.jpg");
   max-width: 1600px;
-}
+  background-color: var(--footer-bg-color);
+  background-repeat:no-repeat;
+  }
 
 .hero-title {
   margin-bottom: 30px;
